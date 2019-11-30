@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission_2_MADE</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="content_tab_movies">Ini Film</string>
+    <string name="content_tab_tv_show">Ini Acara TV</string>
+
+    <string-array name="data_name_movies">
+        <item>
+            Avengers: Infinity War
+        </item>
+        <item>
+            Jurassic Galaxy
+        </item>
+        <item>Aquaman</item>
+        <item>
+            Spider-Man: Into the Spider Verse
+        </item>
+        <item>
+            Jurassic World: Fallen Kingdom
+        </item>
+        <item>Venom</item>
+        <item>
+            Ralph Breaks the Internet
+        </item>
+        <item>
+            Black Panther
+        </item>
+        <item>
+            Bohemian Rhapsody
+        </item>
+        <item>
+            Mission: Impossible Fallout
+        </item>
+    </string-array>
+
+    <string-array name="data_description_movies">
+        <item>
+            Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan nya keinginan bengkok pada semua realitas. Segala yang Avengers telah perjuangkan telah menyebabkan nasib saat ini Bumi dan keberadaannya sendiri tidak pernah lebih pasti.
+        </item>
+        <item>
+            Dalam waktu dekat, sebuah kapal penjelajah ruang angkasa menabrak daratan di sebuah planet yang tidak dikenal. Mereka segera bertemu dengan beberapa orang ketakutan terburuk mereka ketika mereka menemukan planet ini dihuni oleh dinosaurus raksasa.
+        </item>
+        <item>
+            Setelah rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh kekuasaan Raja Orm lapar. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian dunia permukaan. Yang menghalangi jalannya adalah Arthur Curry, Orms setengah manusia, setengah saudara Atlantis dan pewaris sejati takhta.
+        </item>
+        <item>
+         Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi seorang spiderman. Ketika Wilson Kingpin Fisk menggunakan collider super, yang lain dari seberang Spider Verse diangkut ke dimensi ini.
+        </item>
+        <item>
+            Tiga tahun setelah jatuhnya Jurassic World, letusan gunung berapi mengancam dinosaurus yang tersisa isla Nublar, jadi Claire Dearing, mantan manajer taman, merekrut Owen Grady untuk membantu mencegahnya kepunahan dinosaurus sekali lagi.
+        </item>
+        <item>
+            Jurnalis investigasi Eddie Brock berusaha untuk kembali setelah skandal, tetapi tidak sengaja menjadi Tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus bergantung pada kekuatan yang baru ditemukannya melindungi dunia dari organisasi bayangan mencari simbiosis mereka sendiri.
+        </item>
+        <item>
+           Pemain video game penjahat Ralph dan rekan-rekannya yang tidak cocok Vanellope von Schweetz harus mengambil risiko dengan bepergian ke Internet World Wide Web mencari bagian pengganti untuk menyelamatkan video game Vanellopes, Sugar Rush. Jauh di atas kepala mereka, Ralph dan Vanellope bergantung pada warga internet para netizen untuk membantu bernavigasi cara mereka, termasuk seorang pengusaha bernama Yesss, yang merupakan algoritma kepala dan hati dan jiwa situs pembuat tren BuzzzTube.
+        </item>
+        <item>
+            Raja TChalla pulang dari Amerika ke negara Afrika yang tertutup dan berteknologi maju Wakanda untuk melayani sebagai pemimpin baru negaranya. Namun, TChalla segera menemukan bahwa ia ditantang untuk tahta oleh faksi di negaranya sendiri maupun tanpa. Menggunakan kekuatan yang disediakan untuk raja-raja Wakandan, TChalla mengasumsikan mantel Black Panther untuk bergabung dengan pacar Nakia, sang ratu, putri puterinya saudari, anggota Dora Milaje (pasukan khusus Wakandan) dan seorang agen rahasia Amerika, untuk mencegah Wakanda terseret ke dalam perang dunia.
+        </item>
+        <item>
+            Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik oleh badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercurys yang semakin liar mulai lepas kendali, Queen segera menghadapi yang terbaik Tantangan belum - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.
+        </item>
+        <item>
+           Ketika misi IMF berakhir dengan buruk, dunia dihadapkan pada konsekuensi yang mengerikan. Seperti Ethan Hunt menerimanya dirinya untuk memenuhi pengarahan aslinya, CIA mulai mempertanyakan kesetiaan dan motifnya. IMF Tim menemukan diri mereka dalam perlombaan melawan waktu, diburu oleh pembunuh ketika mencoba untuk mencegah global malapetaka.
+        </item>
+    </string-array>
+
+    <string-array name="data_photo_movies">
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/uo7u2bRW6KPPe4ipTUqx5RZ9rwC.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/qEnH5meR381iMpmCumAIMswcQw2.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/uxzzxijgPIY7slzFvMotPv8wjKA.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg</item>
+    </string-array>
+
+    <string-array name="data_name_tv_show">
+        <item>Legacies</item>
+        <item>The Resident</item>
+        <item>Star Wars Resistance</item>
+        <item>Tom Clancy s Jack Ryan </item>
+        <item>FBI</item>
+        <item>A Million Little Things</item>
+        <item>Black Lightning</item>
+        <item>Magnum P.I.</item>
+        <item>Castle Rock</item>
+        <item>Krypton</item>
+    </string-array>
+
+    <string-array name="data_description_tv_show">
+        <item>Di tempat di mana para penyihir muda, vampir, dan manusia serigala dibesarkan untuk menjadi diri mereka yang terbaik terlepas dari impuls terburuk mereka, anak perempuan Klaus Mikaelsons, kembar Hope Mikaelson yang berusia 17 tahun, kembar Alaric Saltzmans, Lizzie dan Josie Saltzman, antara lain, menjadi dewasa menjadi pahlawan dan penjahat di The Salvatore School for the Young and Gifted.</item>
+        <item>Seorang residen senior yang tangguh dan pandai membimbing seorang dokter muda yang idealis melewati hari pertamanya, menarik kembali tirai tentang apa yang sebenarnya terjadi, baik dan buruk, dalam kedokteran modern.</item>
+        <item>Kazuda Xiono, seorang pilot muda untuk Perlawanan, ditugaskan dengan misi rahasia untuk menyelidiki Orde Pertama, ancaman yang berkembang di galaksi.</item>
+        <item>Ketika analis CIA Jack Ryan menemukan serangkaian transfer bank yang mencurigakan, pencariannya atas jawaban menariknya dari keselamatan pekerjaan mejanya dan melontarkannya ke dalam permainan kucing dan tikus yang mematikan di seluruh Eropa dan Timur Tengah, dengan tokoh teroris yang sedang bersiap mempersiapkan untuk serangan besar-besaran terhadap AS dan sekutunya.</item>
+        <item>Unit elit kantor FBI New York membawa semua bakat, kecerdasan, dan keahlian teknis mereka pada kasus-kasus besar untuk menjaga agar New York dan negara aman.</item>
+        <item>Sekelompok teman dari Boston yang merasa terjebak dalam kehidupan mengalami panggilan bangun yang tidak terduga setelah salah satu teman mereka meninggal secara tak terduga.</item>
+        <item>Jefferson Pierce adalah seorang pria yang bergulat dengan sebuah rahasia. Sebagai ayah dari dua putri dan kepala sekolah dari sebuah sekolah menengah charter yang juga berfungsi sebagai tempat yang aman bagi kaum muda di lingkungan New Orleans yang dikuasai oleh kekerasan geng, dia adalah pahlawan bagi komunitasnya.</item>
+        <item>Thomas Magnum, mantan Navy SEAL yang didekorasi, yang sekembalinya dari Afghanistan, menggunakan kembali keterampilan militernya untuk menjadi penyelidik swasta di Hawaii yang mengambil pekerjaan, yang tidak akan dilakukan orang lain dengan bantuan sesama dokter hewan T.C. Calvin dan Rick Wright, dan mantan agen MI: 6 Higgins.</item>
+        <item>Berdasarkan kisah-kisah Stephen King, seri ini menjalin karakter dan tema dari kota fiksi Castle Rock.</item>
+        <item>Ditetapkan dua generasi sebelum kehancuran planet rumah Manusia Baja yang legendaris, Krypton mengikuti kakek Superman yang House Elnya diasingkan dan dipermalukan saat dia berjuang untuk menebus kehormatan keluarganya dan menyelamatkan dunianya yang tercinta dari kekacauan.</item>
+    </string-array>
+
+    <string-array name="data_photo_tv_show">
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/rb64COqdpRRfWOc6gWTfC7WxzXP.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/k1Df8EkXpsEogBj1FXbLfn2mm4i.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/xul6SG8rar3wkHPY8YusUtxcdlZ.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKulwcleWvL9Aoa9VLIT0TQpHqC.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/ecE1yxIYUYHumtXBJ2PQvuCm7En.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/90QFKG1QK7szgMIB2SxFADY1pvy.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OTVZrUDymBK5pjqHk4cwken8Tx.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/uiinjmSkka6JOrk4FsZmrjlNM26.jpg</item>
+    </string-array>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="movies_name">Nama Film</string>
+    <string name="description">Deskripsi</string>
+</resources>
